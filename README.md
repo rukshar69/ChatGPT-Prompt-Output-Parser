@@ -97,3 +97,9 @@ Jupyter notebook link: [langchain_output_parser_prompt_engineering.ipynb](https:
     }
     ```
 
+## References
+
+- [OpenAI](https://platform.openai.com/docs/models/gpt-3-5-turbo)
+- [LangChain Output Parser](https://python.langchain.com/docs/modules/model_io/output_parsers/)
+- [Structured Output Parser](https://python.langchain.com/docs/modules/model_io/output_parsers/structured)
+- [DLAI Course on LangChain](https://learn.deeplearning.ai/langchain/lesson/1/introduction)
